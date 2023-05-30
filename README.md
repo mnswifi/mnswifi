@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yusuf Abdulganiyu.
-- 👀 With passion in IT related activities, especially in the aspect of Data, Network and Cybersecurity profession.
+- 👀 With passion in Data Engineering and building pipelines and models for uncovering mysteries and creative insights.
 - 🌱 Currently on a path of Data Engineering and Data Science.
-- 💞️ I’m looking to collaborate on Data analytics, Networking and Cybersecurity.
+- 💞️ I’m looking to collaborate on Data analytics, and Networking.
 - 📫 Email: yusufabdulganiyu@outlook.com...
 
 <!---
