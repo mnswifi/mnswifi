@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusuf Abdulganiyu.
-- 👀 With passion in Data Engineering and building pipelines and models for uncovering mysteries and creative insights.
+- 👀 With passion in Data Engineering, building pipelines and models for uncovering mysteries and creative insights.
 - 🌱 Currently on a path of Data Engineering and Data Science.
 - 💞️ I’m looking to collaborate on Data analytics, and Networking.
 - 📫 Email: yusufabdulganiyu@outlook.com...
