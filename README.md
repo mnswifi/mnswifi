@@ -43,9 +43,13 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mnswifi&theme=tokyonight&no-frame=true&margin-w=5)
 
 [![trophy](https://github-profile-trophy.vercel.app/?mnswifi=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mnswifi&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mnswifi&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
