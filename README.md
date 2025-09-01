@@ -43,6 +43,8 @@
 ![Mikrotik](https://img.shields.io/badge/MikroTik-%23000000.svg?style=for-the-badge&logo=router&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-%23EE1C25.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 ![ML/AI](https://img.shields.io/badge/ML%2FAI-102230.svg?style=for-the-badge&logo=Artificial-Intelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 
 ---
