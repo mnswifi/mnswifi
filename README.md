@@ -45,6 +45,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mnswifi&theme=tokyonight&no-frame=true&margin-w=5)
 
+[![trophy](https://github-profile-trophy.vercel.app/?mnswifi=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mnswifi&icon=0&color=0)](https://visitcount.itsvg.in)
