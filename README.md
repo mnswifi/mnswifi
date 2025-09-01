@@ -42,6 +42,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/MikroTik-%23000000.svg?style=for-the-badge&logo=router&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-%23EE1C25.svg?style=for-the-badge&logo=fortinet&logoColor=white)
+![ML/AI](https://img.shields.io/badge/ML%2FAI-102230.svg?style=for-the-badge&logo=Artificial-Intelligence&logoColor=white)
 
 
 ---
